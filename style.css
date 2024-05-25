@@ -1,0 +1,16 @@
+.box{ text-align: center;
+height: 180px;
+width:  280px;
+border: 1px solid black;
+}
+h1 {
+    text-align: center;
+    color: #001AFF;
+}
+.box1{
+height: 180px;
+    width: 280px;
+    color: red;
+    border: 1px solid blue;
+    margin-left: 35px;
+}
